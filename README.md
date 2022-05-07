@@ -24,7 +24,7 @@ To create a means of launching a Hamachi VPN client for hub / spoke configuratio
 
 ## 1.2. Pinned Hamachi Release Version
 
-As of 05/07/2019 this is pinned to 2.1.0.198.
+As of 05/07/2022 this is pinned to 2.1.0.203.
 
 ## 1.3. Setting up a Host
 
