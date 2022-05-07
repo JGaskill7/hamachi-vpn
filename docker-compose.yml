@@ -2,7 +2,7 @@ version: "3"
 services:
   hamachi:
     build: hamachi
-    container_name: hamachi
+    container_name: hamachi-vpn
     restart: unless-stopped
     volumes:
       - config:/var/lib/logmein-hamachi:rw
